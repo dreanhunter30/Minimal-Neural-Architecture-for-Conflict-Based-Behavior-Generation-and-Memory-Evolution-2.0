@@ -1,0 +1,8 @@
+
+Title: NeuroATM: Emergent Cognitive Behavior in a Minimal Agent
+
+Abstract:
+This experiment showcases how a simple neural agent creates new behavior in response to unresolved conflicts.
+Instead of relying on predefined training targets, the system responds to ambiguous cases by inventing a new path ("action = 3") and saving it. Over time, the agent develops a unique memory that reflects its experience.
+
+This system is reproducible, minimal, and demonstrates how artificial cognition can emerge from structural uncertainty.
