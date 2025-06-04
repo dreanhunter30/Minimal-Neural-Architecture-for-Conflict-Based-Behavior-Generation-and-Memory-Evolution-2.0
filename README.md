@@ -23,3 +23,7 @@ This project demonstrates a minimal neural agent that evolves behavior through i
 
 This is not a large AI system. It is a micro-experiment to explore how behavior can emerge when there is no answer.  
 Where deep learning requires massive data, **this model grows from contradiction**.
+
+
+license:
+CC BY-NC-SA 4.0
